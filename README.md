@@ -1,1 +1,1 @@
-# TNSDC-image-classification-using-deeplearning
+# TNSDC-image-classification
